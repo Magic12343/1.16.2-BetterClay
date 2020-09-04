@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "betterclay:blocks/broken_bricks",
+    "top": "betterclay:blocks/broken_bricks",
+    "side": "betterclay:blocks/broken_bricks"
+  }
+}

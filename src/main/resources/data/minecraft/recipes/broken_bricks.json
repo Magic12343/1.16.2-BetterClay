@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:bricks"
+  },
+  "result": "betterclay:broken_bricks",
+  "experience": 0.35,
+  "cookingtime": 200
+}
