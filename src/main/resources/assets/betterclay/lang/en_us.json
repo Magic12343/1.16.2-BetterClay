@@ -8,5 +8,18 @@
   "block.betterclay.dirty_bricks_slab": "Dirty Bricks Slab",
   "block.betterclay.dirty_bricks_stairs": "Dirty Bricks Stairs",
   "block.betterclay.dirty_bricks_wall": "Dirty Bricks Wall",
-  "block.betterclay.chiseled_bricks": "Chiseled Bricks"
+  "block.betterclay.chiseled_bricks": "Chiseled Bricks",
+  "block.betterclay.bigger_bricks": "Bigger Bricks",
+  "block.betterclay.bigger_bricks_slab": "Bigger Bricks Slab",
+  "block.betterclay.bigger_bricks_stairs": "Bigger Bricks Stairs",
+  "block.betterclay.bigger_bricks_wall": "Bigger Bricks Wall",
+  "block.betterclay.cracked_bigger_bricks": "Cracked Bigger Bricks",
+  "block.betterclay.cracked_bigger_bricks_slab": "Cracked Bigger Bricks Slab",
+  "block.betterclay.cracked_bigger_bricks_stairs": "Cracked Bigger Bricks Stairs",
+  "block.betterclay.cracked_bigger_bricks_wall": "Cracked Bigger Bricks Wall",
+  "block.betterclay.dirty_bigger_bricks": "Dirty Bigger Bricks",
+  "block.betterclay.dirty_bigger_bricks_slab": "Dirty Bigger Bricks Slab",
+  "block.betterclay.dirty_bigger_bricks_stairs": "Dirty Bigger Bricks Stairs",
+  "block.betterclay.dirty_bigger_bricks_wall": "Dirty Bigger Bricks Wall"
+  
 }

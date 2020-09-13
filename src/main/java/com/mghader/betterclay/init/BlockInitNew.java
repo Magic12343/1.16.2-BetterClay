@@ -20,12 +20,13 @@ public class BlockInitNew {
 	
 	public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, BetterClay.MOD_ID);
 	
+	//Variant Bricks
 	public static final RegistryObject<Block> BIG_BRICK = BLOCKS.register("big_brick", 
 			() -> new Block(Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
 	public static final RegistryObject<Block> CHISELED_BRICKS = BLOCKS.register("chiseled_bricks", 
 			() -> new Block(Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
 	
-	//Broken Bricks 
+	//Cracked Bricks 
 	public static final RegistryObject<Block> BROKEN_BRICKS = BLOCKS.register("broken_bricks", 
 			() -> new Block(Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
 	public static final RegistryObject<Block> BROKEN_BRICKS_SLAB = BLOCKS.register("broken_bricks_slab",
@@ -43,6 +44,36 @@ public class BlockInitNew {
 	public static final RegistryObject<Block> DIRTY_BRICKS_STAIRS = BLOCKS.register("dirty_bricks_stairs",
 			() -> new StairsBlock(Blocks.BRICKS::getDefaultState, Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
 	public static final RegistryObject<Block> DIRTY_BRICKS_WALL = BLOCKS.register("dirty_bricks_wall",
+			() -> new WallBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	
+	//Bigger Bricks
+	public static final RegistryObject<Block> BIGGER_BRICKS = BLOCKS.register("bigger_bricks", 
+			() -> new Block(Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> BIGGER_BRICKS_SLAB = BLOCKS.register("bigger_bricks_slab",
+			() -> new SlabBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> BIGGER_BRICKS_STAIRS = BLOCKS.register("bigger_bricks_stairs",
+			() -> new StairsBlock(Blocks.BRICKS::getDefaultState, Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> BIGGER_BRICKS_WALL = BLOCKS.register("bigger_bricks_wall",
+			() -> new WallBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	
+	//Cracked Bigger Bricks
+	public static final RegistryObject<Block> CRACKED_BIGGER_BRICKS = BLOCKS.register("cracked_bigger_bricks", 
+			() -> new Block(Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> CRACKED_BIGGER_BRICKS_SLAB = BLOCKS.register("cracked_bigger_bricks_slab",
+			() -> new SlabBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> CRACKED_BIGGER_BRICKS_STAIRS = BLOCKS.register("cracked_bigger_bricks_stairs",
+			() -> new StairsBlock(Blocks.BRICKS::getDefaultState, Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> CRACKED_BIGGER_BRICKS_WALL = BLOCKS.register("cracked_bigger_bricks_wall",
+			() -> new WallBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	
+	//Dirty Bigger Bricks
+	public static final RegistryObject<Block> DIRTY_BIGGER_BRICKS = BLOCKS.register("dirty_bigger_bricks", 
+			() -> new Block(Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> DIRTY_BIGGER_BRICKS_SLAB = BLOCKS.register("dirty_bigger_bricks_slab",
+			() -> new SlabBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> DIRTY_BIGGER_BRICKS_STAIRS = BLOCKS.register("dirty_bigger_bricks_stairs",
+			() -> new StairsBlock(Blocks.BRICKS::getDefaultState, Block.Properties.from(Blocks.BRICKS).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
+	public static final RegistryObject<Block> DIRTY_BIGGER_BRICKS_WALL = BLOCKS.register("dirty_bigger_bricks_wall",
 			() -> new WallBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
 	
 }

@@ -2,6 +2,9 @@
    "replace": false,
    "values": [
       "betterclay:broken_bricks_wall", 
-      "betterclay:dirty_bricks_wall" 
+      "betterclay:dirty_bricks_wall", 
+      "betterclay:bigger_bricks_wall", 
+      "betterclay:cracked_bigger_bricks_wall", 
+      "betterclay:dirty_bigger_bricks_wall"
     ]
 }

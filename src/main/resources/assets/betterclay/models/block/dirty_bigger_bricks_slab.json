@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "betterclay:blocks/dirty_bigger_bricks",
+    "top": "betterclay:blocks/dirty_bigger_bricks",
+    "side": "betterclay:blocks/dirty_bigger_bricks"
+  }
+}

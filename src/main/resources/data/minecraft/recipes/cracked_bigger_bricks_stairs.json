@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterclay:cracked_bigger_bricks"
+    }
+  },
+  "result": {
+    "item": "betterclay:cracked_bigger_bricks_stairs",
+    "count": 4
+  }
+}
