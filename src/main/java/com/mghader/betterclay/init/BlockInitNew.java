@@ -76,4 +76,29 @@ public class BlockInitNew {
 	public static final RegistryObject<Block> DIRTY_BIGGER_BRICKS_WALL = BLOCKS.register("dirty_bigger_bricks_wall",
 			() -> new WallBlock(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).harvestLevel(0).harvestTool(ToolType.PICKAXE).hardnessAndResistance(1.5f, 6.0f)));
 	
+	//Stoneware Source Block
+	public static final RegistryObject<Block> STONEWARE_BLOCK = BLOCKS.register("stoneware_block", 
+			() -> new Block(Block.Properties.from(Blocks.COAL_ORE).harvestLevel(1).harvestTool(ToolType.PICKAXE).hardnessAndResistance(3.0f, 3.0f)));
+	
+	//Stoneware Bricks
+	
+	
+	//Stoneware Variant Bricks
+	
+	
+	//Stoneware Cracked Bricks
+	
+	
+	//Stoneware Dirty Bricks
+	
+	
+	//Stoneware Bigger Bricks
+	
+	
+	//Stoneware Cracked Bigger Bricks
+	
+	
+	//Stoneware Dirty Bigger Bricks
+	
+	
 }
