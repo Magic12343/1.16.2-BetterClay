@@ -1,0 +1,102 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": {
+      "item": "betterclay:chiseled_bricks",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.husbandry.get_bricks.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.get_bricks.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "big_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:big_brick"
+          }
+        ]
+      }
+    },
+    "chiseled_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:chiseled_bricks"
+          }
+        ]
+      }
+    },
+    "broken_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:broken_bricks"
+          }
+        ]
+      }
+    },
+    "dirty_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:dirty_bricks"
+          }
+        ]
+      }
+    },
+	"bigger_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:bigger_bricks"
+          }
+        ]
+      }
+    },
+	"cracked_bigger_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:cracked_bigger_bricks"
+          }
+        ]
+      }
+    },
+	"dirty_bigger_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:dirty_bigger_bricks"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "big_brick",
+      "chiseled_bricks",
+	  "broken_bricks",
+	  "dirty_bricks",
+	  "bigger_bricks",
+      "cracked_bigger_bricks",
+      "dirty_bigger_bricks"
+    ]
+  ]
+}

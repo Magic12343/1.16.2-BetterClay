@@ -20,6 +20,8 @@
   "block.betterclay.dirty_bigger_bricks": "Ladrillos grandes mugrientos",
   "block.betterclay.dirty_bigger_bricks_slab": "Baldosa de ladrillos grandes mugrientos",
   "block.betterclay.dirty_bigger_bricks_stairs": "Escaleras de ladrillos grandes mugrientos",
-  "block.betterclay.dirty_bigger_bricks_wall": "Muro de ladrillos grandes mugrientos"
+  "block.betterclay.dirty_bigger_bricks_wall": "Muro de ladrillos grandes mugrientos",
   
+  "advancements.husbandry.get_bricks.title": "Mejor!",
+  "advancements.husbandry.get_bricks.description": "Consegui algunos de los bloques nuevos de BetterClay."
 }

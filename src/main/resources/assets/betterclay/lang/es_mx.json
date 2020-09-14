@@ -20,6 +20,8 @@
   "block.betterclay.dirty_bigger_bricks": "Ladrillos grandes sucios",
   "block.betterclay.dirty_bigger_bricks_slab": "Losa de ladrillos grandes sucios",
   "block.betterclay.dirty_bigger_bricks_stairs": "Escaleras de ladrillos grandes sucios",
-  "block.betterclay.dirty_bigger_bricks_wall": "Pared de ladrillos grandes sucios"
+  "block.betterclay.dirty_bigger_bricks_wall": "Pared de ladrillos grandes sucios",
   
+  "advancements.husbandry.get_bricks.title": "Se ve mejor!",
+  "advancements.husbandry.get_bricks.description": "Consigue algunos de los nuevos bloques de BetterClay."
 }

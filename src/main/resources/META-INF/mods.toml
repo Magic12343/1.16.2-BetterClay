@@ -16,7 +16,7 @@ issueTrackerURL="http://my.issue.tracker/" #optional
 
 modId="betterclay" #mandatory
 
-version="1.0." #mandatory
+version="1.0.3" #mandatory
 
 displayName="Better Clay" #mandatory
 
@@ -26,7 +26,7 @@ displayURL="http://example.com/" #optional
 
 logoFile="betterclay.png" #optional
 
-credits="Thanks to waiting for my mod!" #optional
+credits="Thanks to Azgalord_ for the spanish traduction and you for waiting my mod!" #optional
 
 authors="MGHader" #optional
 

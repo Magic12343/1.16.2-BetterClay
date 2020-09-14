@@ -20,6 +20,9 @@
   "block.betterclay.dirty_bigger_bricks": "Dirty Bigger Bricks",
   "block.betterclay.dirty_bigger_bricks_slab": "Dirty Bigger Brick Slab",
   "block.betterclay.dirty_bigger_bricks_stairs": "Dirty Bigger Brick Stairs",
-  "block.betterclay.dirty_bigger_bricks_wall": "Dirty Bigger Brick Wall"
+  "block.betterclay.dirty_bigger_bricks_wall": "Dirty Bigger Brick Wall",
+  
+  "advancements.husbandry.get_bricks.title": "Seems Better!",
+  "advancements.husbandry.get_bricks.description": "Get some of the new Better Clay blocks."
   
 }

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "betterclay:bigger_bricks"
+  },
+  "result": "betterclay:bigger_bricks_wall",
+  "count": 1
+}
