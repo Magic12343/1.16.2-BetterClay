@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "betterclay:adobe_ball"
+  },
+  "result": "betterclay:adobe_brick",
+  "experience": 0.35,
+  "cookingtime": 200
+}

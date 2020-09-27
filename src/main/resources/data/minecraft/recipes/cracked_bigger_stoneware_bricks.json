@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "betterclay:bigger_stoneware_bricks"
+  },
+  "result": "betterclay:cracked_bigger_stoneware_bricks",
+  "experience": 0.35,
+  "cookingtime": 200
+}

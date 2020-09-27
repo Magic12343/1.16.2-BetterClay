@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "betterclay:blocks/cracked_bigger_adobe_bricks",
+    "top": "betterclay:blocks/cracked_bigger_adobe_bricks",
+    "side": "betterclay:blocks/cracked_bigger_adobe_bricks"
+  }
+}

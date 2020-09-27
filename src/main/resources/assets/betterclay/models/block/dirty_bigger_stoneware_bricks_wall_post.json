@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "betterclay:blocks/dirty_bigger_stoneware_bricks"
+  }
+}

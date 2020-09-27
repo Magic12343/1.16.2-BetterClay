@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterclay:bigger_stoneware_bricks"
+    }
+  },
+  "result": {
+    "item": "betterclay:bigger_stoneware_bricks_slab",
+    "count": 6
+  }
+}

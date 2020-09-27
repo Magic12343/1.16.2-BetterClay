@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "betterclay:cracked_adobe_bricks"
+  },
+  "result": "betterclay:cracked_adobe_bricks_stairs",
+  "count": 1
+}

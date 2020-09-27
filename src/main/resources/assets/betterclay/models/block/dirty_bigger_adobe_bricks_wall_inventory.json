@@ -1,0 +1,6 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "betterclay:blocks/dirty_bigger_adobe_bricks"
+  }
+}

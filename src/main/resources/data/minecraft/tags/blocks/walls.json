@@ -5,6 +5,18 @@
       "betterclay:dirty_bricks_wall", 
       "betterclay:bigger_bricks_wall", 
       "betterclay:cracked_bigger_bricks_wall", 
-      "betterclay:dirty_bigger_bricks_wall"
+      "betterclay:dirty_bigger_bricks_wall",
+      "betterclay:stoneware_bricks_wall", 
+      "betterclay:cracked_stoneware_bricks_wall", 
+      "betterclay:dirty_stoneware_bricks_wall", 
+      "betterclay:bigger_stoneware_bricks_wall", 
+      "betterclay:cracked_bigger_stoneware_bricks_wall", 
+      "betterclay:dirty_bigger_stoneware_bricks_wall", 
+      "betterclay:adobe_bricks_wall", 
+      "betterclay:cracked_adobe_bricks_wall", 
+      "betterclay:dirty_adobe_bricks_wall", 
+      "betterclay:bigger_adobe_bricks_wall", 
+      "betterclay:cracked_bigger_adobe_bricks_wall", 
+      "betterclay:dirty_bigger_adobe_bricks_wall" 
     ]
 }

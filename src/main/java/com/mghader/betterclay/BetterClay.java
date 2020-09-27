@@ -94,5 +94,5 @@ public class BetterClay
     }
     public void onServerStarting(FMLServerStartingEvent event) 
 
-    {}   
+    {} 
 }

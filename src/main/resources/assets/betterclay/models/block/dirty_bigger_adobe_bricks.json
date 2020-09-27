@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "betterclay:blocks/dirty_bigger_adobe_bricks"
+  }
+}

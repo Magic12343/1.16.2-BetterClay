@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:husbandry/get_betterclay_block",
+  "display": {
+    "icon": {
+      "item": "betterclay:stoneware_chiseled_bricks"
+    },
+    "title": {
+      "translate": "advancements.husbandry.get_stoneware_bricks.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.get_stoneware_bricks.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "stoneware_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "betterclay:stoneware_bricks"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "stoneware_bricks"
+    ]
+  ]
+}

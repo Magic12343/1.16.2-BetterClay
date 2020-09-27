@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "betterclay:adobe_bricks_slab"
+    }
+  },
+  "result": {
+    "item": "betterclay:chiseled_adobe_bricks"
+  }
+}

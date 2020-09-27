@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterclay:adobe_bricks"
+    },
+    {
+      "item": "betterclay:adobe_brick"
+    }
+  ],
+  "result": {
+    "item": "betterclay:bigger_adobe_bricks"
+  }
+}

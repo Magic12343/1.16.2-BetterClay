@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "betterclay:block/dirty_bigger_adobe_bricks_slab"
+    },
+    "type=double": {
+      "model": "betterclay:block/dirty_bigger_adobe_bricks"
+    },
+    "type=top": {
+      "model": "betterclay:block/dirty_bigger_adobe_bricks_slab_top"
+    }
+  }
+}

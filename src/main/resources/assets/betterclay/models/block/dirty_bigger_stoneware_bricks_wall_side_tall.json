@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "betterclay:blocks/dirty_bigger_stoneware_bricks"
+  }
+}
